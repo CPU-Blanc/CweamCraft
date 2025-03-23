@@ -5,7 +5,7 @@ title: Modpack
 The server runs a custom modpack. You will need [Prism](https://prismlauncher.org/), [Curseforge](https://www.curseforge.com/download/app), [MultiMC](https://multimc.org/), or any other Minecraft instance manager in order to install the modpack and join.
 
 ###### Download the latest release
-{% include button.html text="CweamCraft-.zip 📁" link="https://github.com/CPU-Blanc/CweamCraft/releases/download/v0.0.0/CweamCraft-0.0.0.zip" %}
+{% include button.html text="CweamCraft-1.0.0.zip 📁" link="https://github.com/CPU-Blanc/CweamCraft/releases/download/v1.0.0/CweamCraft-1.0.0.zip" %}
 
 # Installation
 ### Prism Launcher
