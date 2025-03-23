@@ -1,0 +1,201 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/deathcounter-common.toml"
+hash = "278a3d07f7c6710fbe3381503a495094571ba3686f2bb6d130dab542da5cab6d"
+
+[[files]]
+file = "config/rats-common.toml"
+hash = "53059703c4f851d48618e8977c7c2d31c9d095737353471b51ffceaf979d8e4c"
+
+[[files]]
+file = "config/vivecraft-server-config.toml"
+hash = "2af6b1b5b68f9e4d6ff9509c5f769f546b7a6dd8bcbb93a98234a0f346a2982f"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "c36feb85a46116a2e37483eebb4a0800cfb72b993329dc70a737cfaeeca2cfa1"
+
+[[files]]
+file = "config/worldborder.json5"
+hash = "da95221b88c50feef88d190055dacd3883f8662f8b7689f5a64d3f9e5fe46754"
+
+[[files]]
+file = "dynmap/configuration.txt"
+hash = "7c086e336e24598ca9d44c0ada7df9e0a83aca46b48a8ad556693612cbc4debe"
+
+[[files]]
+file = "dynmap/renderdata/alexsmobs-models.txt"
+hash = "584cdde5ece80690a0434e2e664bb5fd5ce9a9d6a9a1b08445f291381422a028"
+
+[[files]]
+file = "dynmap/renderdata/alexsmobs-texture.txt"
+hash = "39e9a898a26e2a7b3092ecc5b09cdacc019e69ed24a79a0365547ef839022c09"
+
+[[files]]
+file = "dynmap/renderdata/chiselsandbits-models.txt"
+hash = "8e038a8bf7fef6429faeace16556bbb09355ca68fb7db0f5e5a962af166df159"
+
+[[files]]
+file = "dynmap/renderdata/chiselsandbits-texture.txt"
+hash = "2e98e737f88f9d2382440a3200bf11be4ca5abbd4e535ad9bd86082f907b28db"
+
+[[files]]
+file = "dynmap/renderdata/gravestone-models.txt"
+hash = "363d75779c7d7e207e7455563408bab8fc75630792d09211901bd21f6d9fc7a6"
+
+[[files]]
+file = "dynmap/renderdata/gravestone-texture.txt"
+hash = "76fce95b23b9dae2bce39c107d0f06fff08b8751ea608b5bfc641e9e03c3dc2b"
+
+[[files]]
+file = "dynmap/renderdata/rats-models.txt"
+hash = "b49d05b099fe7a18ec0c6367eab93c9f44833ff33729e8155178b0c27e97ed29"
+
+[[files]]
+file = "dynmap/renderdata/rats-texture.txt"
+hash = "e8ca650f15e01b4a4d903b32094329e2c0f9d5d0f47d764949d9e7cd8222cacd"
+
+[[files]]
+file = "mods/additional-redstone.pw.toml"
+hash = "e6f1378edbd3c14377c457532b91520e3a592fc5443e852ad58bac67872d25c0"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "2a9872ac355162ce4dd591df5bf9be0723bbcad0562d77568552238bbb82d899"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "82c51a711d6193f827c20806a08635564aa43252309e3e037776800499ad860f"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "c22a242d8faa61fd1b25f89707eff35dff301d6a6b35ffd345220e1a5fd9339d"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "a9df7957db29bd5934360117797e75baa6fc0a12a9ef99c1bddb66a7ad30a7ce"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
+metafile = true
+
+[[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "2d4d3174279fe135557a650d3a3e4ac4d1609931d2c70b0e6f0feb6103a7c681"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "33af5f73cc7b802cf45b02ef7ec7b9a516919d55ed32a035a4661f33331b5531"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "4494c0ca2e7bcf5dc0193e4dc1aa37a0cb868ed40b002b8729bb16658b423dfb"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "02a961f55839346fcef6cca287a27cc1532f0761735a9ff2712a3efe0e4489fe"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "59c83aff76fec2f34cf0ddd59dc926b6c6a3baaed67764b9511bc77b52427156"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d31799ce8cc4fb4b4215abc904d3bd2a3a51b1758409142879db8ed0a7c90cf6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1688cf8e91002b58e23e3040a8b72a728ca76f054d110440d1e91b0d8ec4b16a"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "715293ca3b656d3957d5dc974047c3629bb0512307044860100983a433015589"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "79410bb7c19d56a75b324e27d32192e1d239385f77db26140fa54f3974e6b25f"
+metafile = true
+
+[[files]]
+file = "mods/world-border.pw.toml"
+hash = "a303192d78ce87e6249c6ef4090c2d706b8bbbe0440a55b7d7bdc61db195370a"
+metafile = true
+
+[[files]]
+file = "scripts/rats-balance.zs"
+hash = "32e8956ffc0f5471943020ed4b9f989ebbc1409daeeab8dc3756c60da9dace36"

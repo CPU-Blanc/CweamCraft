@@ -1,0 +1,13 @@
+name = "CweamCraft"
+author = "CPU_Blanc"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d35209e921aa0e1317ca9267839cc9929c8c41d10f3e5457bc6fce9ff105618"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
