@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/deathcounter-common.toml"
-hash = "278a3d07f7c6710fbe3381503a495094571ba3686f2bb6d130dab542da5cab6d"
-
-[[files]]
 file = "config/rats-common.toml"
 hash = "53059703c4f851d48618e8977c7c2d31c9d095737353471b51ffceaf979d8e4c"
 
@@ -22,7 +18,7 @@ hash = "da95221b88c50feef88d190055dacd3883f8662f8b7689f5a64d3f9e5fe46754"
 
 [[files]]
 file = "dynmap/configuration.txt"
-hash = "a107e275ab09e8ffdf3d8ad05e24c7dc75b0aa42fd912acece00a6fb8ebf3b10"
+hash = "484f74d5cbf230e9149ddb25334e88c7e663fb7934317bdb26795e6089050710"
 
 [[files]]
 file = "dynmap/renderdata/alexsmobs-models.txt"
