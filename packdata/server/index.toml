@@ -22,7 +22,7 @@ hash = "da95221b88c50feef88d190055dacd3883f8662f8b7689f5a64d3f9e5fe46754"
 
 [[files]]
 file = "dynmap/configuration.txt"
-hash = "7c086e336e24598ca9d44c0ada7df9e0a83aca46b48a8ad556693612cbc4debe"
+hash = "bfcf3884e6da8695bf9d442770b70897d399f6c2404ee5726adf7b85815f23ca"
 
 [[files]]
 file = "dynmap/renderdata/alexsmobs-models.txt"
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2a9872ac355162ce4dd591df5bf9be0723bbcad0562d77568552238bbb82d899"
+hash = "98499eeefa63be9a0be97f641a895e0820a5194780623daabbdc7a99f5c60c24"
 metafile = true
 
 [[files]]
