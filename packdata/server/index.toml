@@ -22,7 +22,7 @@ hash = "da95221b88c50feef88d190055dacd3883f8662f8b7689f5a64d3f9e5fe46754"
 
 [[files]]
 file = "dynmap/configuration.txt"
-hash = "bfcf3884e6da8695bf9d442770b70897d399f6c2404ee5726adf7b85815f23ca"
+hash = "a107e275ab09e8ffdf3d8ad05e24c7dc75b0aa42fd912acece00a6fb8ebf3b10"
 
 [[files]]
 file = "dynmap/renderdata/alexsmobs-models.txt"
