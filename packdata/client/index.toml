@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "98499eeefa63be9a0be97f641a895e0820a5194780623daabbdc7a99f5c60c24"
+hash = "11c5de7f7ffa4d0a31d61c15da8fcf732227e890df14a7ab4ca9ba2e139188c7"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "2a9cdbfe5f26ccde4e9c9de96da804cffdc1a73c47b473137cc1674840ca6194"
+hash = "b988bc3df72097c41bf4dc6d41e7112ce5671deb54085418f23846f88c22d7d9"
 metafile = true
 
 [[files]]

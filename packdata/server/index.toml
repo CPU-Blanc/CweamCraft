@@ -63,13 +63,8 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
-hash = "98499eeefa63be9a0be97f641a895e0820a5194780623daabbdc7a99f5c60c24"
+hash = "11c5de7f7ffa4d0a31d61c15da8fcf732227e890df14a7ab4ca9ba2e139188c7"
 metafile = true
 
 [[files]]
@@ -110,11 +105,6 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
-metafile = true
-
-[[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "2d4d3174279fe135557a650d3a3e4ac4d1609931d2c70b0e6f0feb6103a7c681"
 metafile = true
 
 [[files]]
@@ -165,11 +155,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d31799ce8cc4fb4b4215abc904d3bd2a3a51b1758409142879db8ed0a7c90cf6"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
