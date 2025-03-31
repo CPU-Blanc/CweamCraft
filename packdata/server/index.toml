@@ -14,7 +14,7 @@ hash = "91980a694ffd6d9c3920e78b9893a896dd6b97d3446b4e36a582c9d6c4e9a4bd"
 
 [[files]]
 file = "config/worldborder.json5"
-hash = "da95221b88c50feef88d190055dacd3883f8662f8b7689f5a64d3f9e5fe46754"
+hash = "5927393e674f7a2b60961bfc5db30447c4c8db612e52249ae6139062f6fe5243"
 
 [[files]]
 file = "dynmap/configuration.txt"
@@ -37,12 +37,28 @@ file = "dynmap/renderdata/chiselsandbits-texture.txt"
 hash = "2e98e737f88f9d2382440a3200bf11be4ca5abbd4e535ad9bd86082f907b28db"
 
 [[files]]
+file = "dynmap/renderdata/farmersdelight-models.txt"
+hash = "c43f9eaa97dfa400b0d5ccc7c514d97ef3b2c5fc409f3e6fb7b771c37fc00bf1"
+
+[[files]]
+file = "dynmap/renderdata/farmersdelight-texture.txt"
+hash = "aefa788e421818715197d67e7cfdd9c559bbdbe57c388562712623ccfa0b553f"
+
+[[files]]
 file = "dynmap/renderdata/gravestone-models.txt"
 hash = "363d75779c7d7e207e7455563408bab8fc75630792d09211901bd21f6d9fc7a6"
 
 [[files]]
 file = "dynmap/renderdata/gravestone-texture.txt"
 hash = "76fce95b23b9dae2bce39c107d0f06fff08b8751ea608b5bfc641e9e03c3dc2b"
+
+[[files]]
+file = "dynmap/renderdata/railcraft-models.txt"
+hash = "33078d5d2448381c0a8d2392018210befc4feec200fb08648c81cfc8e39ca305"
+
+[[files]]
+file = "dynmap/renderdata/railcraft-texture.txt"
+hash = "5e72af09a876d6a1f654836567599ce71632ce0043ec8e650d6f7557e61eb1e6"
 
 [[files]]
 file = "dynmap/renderdata/rats-models.txt"
