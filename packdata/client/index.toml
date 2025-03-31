@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/emojiful-client.toml"
+hash = "d1475ba8120de5c3d68cb93d3751a54811b16a22833421f6b6d548b67028803c"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "d6ef3d7a5517c89721d70bb8c73b9f5e0c988b28001b3a4b0fe41f5335c66548"
+
+[[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
 hash = "71709b74727d4fe97940e4e23950ad062046a49435cdff87f391c6bfb8d9bea4"
 
@@ -40,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "11c5de7f7ffa4d0a31d61c15da8fcf732227e890df14a7ab4ca9ba2e139188c7"
+hash = "e02edad65b21bdaa914dce1237d99e4a4d2d80e497e817e0cd77be87043c80be"
 metafile = true
 
 [[files]]
@@ -54,6 +62,11 @@ hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
 metafile = true
 
 [[files]]
+file = "mods/complementary-reimagined.pw.toml"
+hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "c22a242d8faa61fd1b25f89707eff35dff301d6a6b35ffd345220e1a5fd9339d"
 metafile = true
@@ -61,6 +74,21 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "3b8dacbd1cd0e3d849b080473559fd26e4268e396075ad37d0fdf7031ee9dc97"
+metafile = true
+
+[[files]]
+file = "mods/faithful-32x.pw.toml"
+hash = "aedee657e7cbed0c751931bbcca081832a17f844e6f68b251ef7e47510c701fb"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "ba6c13e70f06dde3b8d01d4143c22fea36ec035d7cd8834c7a82aa778a809467"
 metafile = true
 
 [[files]]
@@ -79,6 +107,11 @@ hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "984992f9214094eaab3beb1ae7600c76fc793c27696192f02a8f35ca93803552"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
 metafile = true
@@ -89,8 +122,23 @@ hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "ee79f551b7aede4b923fc6df137c4ebbb1dd21eb80a3aaba6da8be93ac5010e7"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "a4ff567d52fe55984cc0cb93430a4c8f01dc00b14fbd6e25a077dbd179f534fb"
 metafile = true
 
 [[files]]
@@ -101,6 +149,26 @@ metafile = true
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "4494c0ca2e7bcf5dc0193e4dc1aa37a0cb868ed40b002b8729bb16658b423dfb"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "69cee636ccc8f669dd9c157ef44b6072465fe4c35b82965046bcc4647d8b820e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "8a5a9886c92d4918b5ffaa9cc5d112a3aed98c042dbe56aadc3e16ec82299ea0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "fbb984a9f19934ccba273c93d203a3d9d623b2016b1c8c8af340b717910ca070"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "26302c1c2aa04621bb746c35eff79cb2d35681f21201a4c7e7319da6e1a8cc70"
 metafile = true
 
 [[files]]
@@ -124,6 +192,11 @@ hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "0b9cb1dc948413d4c8c16b77307cec4f45c9af9822116beda965c0a15ccf2ac5"
+metafile = true
+
+[[files]]
 file = "mods/rats.pw.toml"
 hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
 metafile = true
@@ -144,6 +217,11 @@ hash = "6e9ed6f6746a95b05a899521662fca7ed48fd4effc52124c4db349a9d2966e8b"
 metafile = true
 
 [[files]]
+file = "mods/stay-true.pw.toml"
+hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1688cf8e91002b58e23e3040a8b72a728ca76f054d110440d1e91b0d8ec4b16a"
 metafile = true
@@ -157,3 +235,7 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "79410bb7c19d56a75b324e27d32192e1d239385f77db26140fa54f3974e6b25f"
 metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.1.zip"
+hash = "1228172bfb0ee49de3d2b6268390bac52c9a57dd0aa92c8903e57cf14583203a"
