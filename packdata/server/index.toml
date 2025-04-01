@@ -18,7 +18,7 @@ hash = "5927393e674f7a2b60961bfc5db30447c4c8db612e52249ae6139062f6fe5243"
 
 [[files]]
 file = "dynmap/configuration.txt"
-hash = "0869dd687c34addaea37450d3e1c11795f3abd4a419b78b2576fec92b8fcbe84"
+hash = "518311488617e73af38206a016b082bfdaf3a5bbd17a7cbc4db98fae0e70065f"
 
 [[files]]
 file = "dynmap/renderdata/alexsmobs-models.txt"
@@ -76,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "415c1bb058287bd60abb4ffc9210963699259862e32b039ececf3c0b497e968b"
 metafile = true
 
 [[files]]
@@ -219,6 +224,11 @@ hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
@@ -235,7 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d31799ce8cc4fb4b4215abc904d3bd2a3a51b1758409142879db8ed0a7c90cf6"
+hash = "703a46fa7d4918e855cc6ee841d4542741494851023ff49ba4087092a8d70b20"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
