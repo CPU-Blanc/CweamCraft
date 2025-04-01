@@ -239,6 +239,11 @@ hash = "d31799ce8cc4fb4b4215abc904d3bd2a3a51b1758409142879db8ed0a7c90cf6"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1688cf8e91002b58e23e3040a8b72a728ca76f054d110440d1e91b0d8ec4b16a"
 metafile = true
@@ -269,6 +274,10 @@ hash = "32e8956ffc0f5471943020ed4b9f989ebbc1409daeeab8dc3756c60da9dace36"
 [[files]]
 file = "world/serverconfig/ftbessentials.snbt"
 hash = "58f2ae3f069ea17f8df024281ca0a9cb73af44651e59e125ac430c4723dc9991"
+
+[[files]]
+file = "world/serverconfig/ftbranks/ranks.snbt"
+hash = "4da2081ba1d546459f484288c30c259db25b620941fd22be08779f4a36db214b"
 
 [[files]]
 file = "world/serverconfig/gravestone-server.toml"
