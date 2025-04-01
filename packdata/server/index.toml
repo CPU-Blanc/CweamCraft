@@ -119,6 +119,11 @@ hash = "c22a242d8faa61fd1b25f89707eff35dff301d6a6b35ffd345220e1a5fd9339d"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "a9df7957db29bd5934360117797e75baa6fc0a12a9ef99c1bddb66a7ad30a7ce"
 metafile = true
