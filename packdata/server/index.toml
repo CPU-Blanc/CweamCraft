@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs/catfish_spawns.json"
-hash = "992f864e8949f6dfe93b522fa0a74c4278340722671eec9854163304df55e0b1"
+hash = "5cf1aa60e2a5cf1e4456e7818b9d5738d8ba2ad19267eff3e9eb515a23f2cfb4"
 
 [[files]]
 file = "config/rats-common.toml"
