@@ -1,12 +1,12 @@
 name = "CweamCraft"
 author = "CPU_Blanc"
-version = "1.1.7"
+version = "1.1.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1336135ea5a1a3d899924885f305236b8d036a3be2c97e890fa8fe7a29a84043"
+hash = "504343caf8cd2bf97b6bc56a46d5224a7d780b24785b824f08be5b4961d733e3"
 
 [versions]
 forge = "47.4.0"

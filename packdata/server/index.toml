@@ -5,6 +5,10 @@ file = "config/alexsmobs/catfish_spawns.json"
 hash = "5cf1aa60e2a5cf1e4456e7818b9d5738d8ba2ad19267eff3e9eb515a23f2cfb4"
 
 [[files]]
+file = "config/immersive-optimization.json"
+hash = "07ee758fa7b8c973ea5425f87ecf413a2c02a7118afbff2a583dfa61bc3645eb"
+
+[[files]]
 file = "config/rats-common.toml"
 hash = "53059703c4f851d48618e8977c7c2d31c9d095737353471b51ffceaf979d8e4c"
 
@@ -340,3 +344,7 @@ hash = "8e13311da9b8861ab596080c57ebe48eedfb9d45a28817d7e2af4d5f9aff241b"
 [[files]]
 file = "world/serverconfig/journeymap-server.toml"
 hash = "cb9df9debbc04baab5ad473f10049b67887b96404c7997983d26c9a98d2c102a"
+
+[[files]]
+file = "world/serverconfig/railcraft-server.toml"
+hash = "2cd236244ae9ea9eee684608c4ac993b3429807e275ca1f8927974a0166855aa"
