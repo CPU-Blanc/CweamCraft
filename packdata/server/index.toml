@@ -18,7 +18,7 @@ hash = "2af6b1b5b68f9e4d6ff9509c5f769f546b7a6dd8bcbb93a98234a0f346a2982f"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "91980a694ffd6d9c3920e78b9893a896dd6b97d3446b4e36a582c9d6c4e9a4bd"
+hash = "9c6e6cbd25888b578519887ea58489200be0358570bebc6555cee6f726ad2f32"
 
 [[files]]
 file = "config/worldborder.json5"
@@ -66,7 +66,7 @@ hash = "33078d5d2448381c0a8d2392018210befc4feec200fb08648c81cfc8e39ca305"
 
 [[files]]
 file = "dynmap/renderdata/railcraft-texture.txt"
-hash = "5e72af09a876d6a1f654836567599ce71632ce0043ec8e650d6f7557e61eb1e6"
+hash = "5b9546dcab95143a228f2e14c3cc18133d140974e53ce706bff16be82b009d10"
 
 [[files]]
 file = "dynmap/renderdata/rats-models.txt"
@@ -74,7 +74,7 @@ hash = "b49d05b099fe7a18ec0c6367eab93c9f44833ff33729e8155178b0c27e97ed29"
 
 [[files]]
 file = "dynmap/renderdata/rats-texture.txt"
-hash = "e8ca650f15e01b4a4d903b32094329e2c0f9d5d0f47d764949d9e7cd8222cacd"
+hash = "53ea04fc0ddcfee6b86ad3dabc8cb87e483b926945b57468c46573989738ff05"
 
 [[files]]
 file = "mods/additional-redstone.pw.toml"
