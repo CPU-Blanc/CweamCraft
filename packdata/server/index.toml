@@ -9,8 +9,8 @@ file = "config/immersive-optimization.json"
 hash = "07ee758fa7b8c973ea5425f87ecf413a2c02a7118afbff2a583dfa61bc3645eb"
 
 [[files]]
-file = "config/rats-common.toml"
-hash = "53059703c4f851d48618e8977c7c2d31c9d095737353471b51ffceaf979d8e4c"
+file = "config/quark-common.toml"
+hash = "b8705a396a93a8127a571739ed5e047d86911a6a24871eb84240841e313b4467"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
@@ -29,52 +29,148 @@ file = "dynmap/configuration.txt"
 hash = "518311488617e73af38206a016b082bfdaf3a5bbd17a7cbc4db98fae0e70065f"
 
 [[files]]
+file = "dynmap/renderdata/additionalredstone-models.txt"
+hash = "f85e8af1dc14616eeb58adcd91f754695ebec6e433b82ba5ca482d1f80aec3d4"
+
+[[files]]
+file = "dynmap/renderdata/additionalredstone-texture.txt"
+hash = "0400138f97183af02c18cc03582d6a12ba6ef910905e911b13d92ca5be1476c5"
+
+[[files]]
 file = "dynmap/renderdata/alexsmobs-models.txt"
-hash = "584cdde5ece80690a0434e2e664bb5fd5ce9a9d6a9a1b08445f291381422a028"
+hash = "a3adb8f6d0f60c68de0636807ec6f72b0fd312401b107e7057e6b5877d8a1ce9"
 
 [[files]]
 file = "dynmap/renderdata/alexsmobs-texture.txt"
-hash = "39e9a898a26e2a7b3092ecc5b09cdacc019e69ed24a79a0365547ef839022c09"
+hash = "427cd4223c6496782fa2bc602ff3fba27b9c9a2323fbafc3b857b2723e99f7ed"
 
 [[files]]
 file = "dynmap/renderdata/chiselsandbits-models.txt"
-hash = "8e038a8bf7fef6429faeace16556bbb09355ca68fb7db0f5e5a962af166df159"
+hash = "19b919af6b0ad68a616cf4db401f0fcf9f89c3dee61e019caced095542c0205d"
 
 [[files]]
 file = "dynmap/renderdata/chiselsandbits-texture.txt"
-hash = "2e98e737f88f9d2382440a3200bf11be4ca5abbd4e535ad9bd86082f907b28db"
+hash = "a74c1dca0e968ca819fb1c6fe7cb340a5d3ccb3ebc45a78e2bb6d17d1d3ff083"
+
+[[files]]
+file = "dynmap/renderdata/citadel-models.txt"
+hash = "91ea9d1ef73cf3471775cabfd3bc1ee418c09af066ede577c105e90936fa5b2c"
+
+[[files]]
+file = "dynmap/renderdata/citadel-texture.txt"
+hash = "0ca180e9a0f9c8fbe9474888ca0fb97f513bdbf84f2e829903828df462c60142"
 
 [[files]]
 file = "dynmap/renderdata/farmersdelight-models.txt"
-hash = "c43f9eaa97dfa400b0d5ccc7c514d97ef3b2c5fc409f3e6fb7b771c37fc00bf1"
+hash = "13d59a2bc30c850006bb1c6154099419721b45276142ccb17842d61b261cc2c5"
 
 [[files]]
 file = "dynmap/renderdata/farmersdelight-texture.txt"
-hash = "aefa788e421818715197d67e7cfdd9c559bbdbe57c388562712623ccfa0b553f"
+hash = "d65ff5c1a2be7bfd864c90eb6619088037ea59f8c12c99e36929ee315ddb90f6"
 
 [[files]]
 file = "dynmap/renderdata/gravestone-models.txt"
-hash = "363d75779c7d7e207e7455563408bab8fc75630792d09211901bd21f6d9fc7a6"
+hash = "8c19af7f6c5f6d936a37607b63f0c15c1479347ccc75139419f5a364a53f8517"
 
 [[files]]
 file = "dynmap/renderdata/gravestone-texture.txt"
 hash = "76fce95b23b9dae2bce39c107d0f06fff08b8751ea608b5bfc641e9e03c3dc2b"
 
 [[files]]
+file = "dynmap/renderdata/lootr-models.txt"
+hash = "6efc9bcd055123ee93d6227b5320644658b07d725a4efb93c7638b6b095ed984"
+
+[[files]]
+file = "dynmap/renderdata/lootr-texture.txt"
+hash = "aa37fb127c6ec563b2423b5f37904eb6426e0b162f452427d0d2479426cd7fe2"
+
+[[files]]
+file = "dynmap/renderdata/mcwbridges-models.txt"
+hash = "c7f230aa43947039be7f4eb8e732eb6d634ab9ca082be6a6d761720499e30ebd"
+
+[[files]]
+file = "dynmap/renderdata/mcwbridges-texture.txt"
+hash = "7e8b72e92d99f7c16e9280c50eeb38dcf26d2412f650c6d3f072d089e20713b5"
+
+[[files]]
+file = "dynmap/renderdata/mcwdoors-models.txt"
+hash = "51499304d5bbb4900aa213f9e3dd0cff042737d1f9de0c2a670a33e9266efa18"
+
+[[files]]
+file = "dynmap/renderdata/mcwdoors-texture.txt"
+hash = "33e05dd3ff561e83c8a487c283ea07ef7c9a3016e3efb3646c284b4cd4f84348"
+
+[[files]]
+file = "dynmap/renderdata/mcwfurnitures-models.txt"
+hash = "681593511aed472fd9ba774170b5d585113ae580bad679990e903ab07ce7f61e"
+
+[[files]]
+file = "dynmap/renderdata/mcwfurnitures-texture.txt"
+hash = "6e71003a0adfc3eed914adc4afaab1736fa5734b791fcf0f98ed649d664b273e"
+
+[[files]]
+file = "dynmap/renderdata/mcwlights-models.txt"
+hash = "4727be4044ffc332603d6a6221abd54d0067e32d8068201f7510712bacbc31ed"
+
+[[files]]
+file = "dynmap/renderdata/mcwlights-texture.txt"
+hash = "85ed6bde609d6b905497dcd3b12fa3f2cfc94dec5cc96e42a3aa103f427c1759"
+
+[[files]]
+file = "dynmap/renderdata/mcwpaths-models.txt"
+hash = "95f4d1da68a8c2628ce64b58fdfeebc02e2161777567136e43b6ff7f2cf866fa"
+
+[[files]]
+file = "dynmap/renderdata/mcwpaths-texture.txt"
+hash = "0e82c50f95e4608b71329ec49693f7700cfef3328aab127fba09e7f0e55180a6"
+
+[[files]]
+file = "dynmap/renderdata/mcwroofs-models.txt"
+hash = "36a151dba0ef13bc04b87db008ffcac1df767e53f566be9cdda6b72dcc52e541"
+
+[[files]]
+file = "dynmap/renderdata/mcwroofs-texture.txt"
+hash = "fed40944aae14dd62223ba6bf7b7facbcebdf52fba459a8ae67d17aefd1b5cef"
+
+[[files]]
+file = "dynmap/renderdata/mcwstairs-models.txt"
+hash = "4706623293dcc4ab20e52e2aebf90e17455fe9d9e5f83b3e9387a1d2435e1f2b"
+
+[[files]]
+file = "dynmap/renderdata/mcwstairs-texture.txt"
+hash = "86d3c9333609c262b389bbc015c24248d2bfc90ed2438fdf2030b21f1a40bce9"
+
+[[files]]
+file = "dynmap/renderdata/mcwwindows-models.txt"
+hash = "2b8228417a20583905d7182d6b3a5a35b677d15029bd71b1e53eda455d1184e4"
+
+[[files]]
+file = "dynmap/renderdata/mcwwindows-texture.txt"
+hash = "53e443e1ff470f4ce5469dd6b337efadda1317a483c928fd8d3dc7cd5eee0d4d"
+
+[[files]]
+file = "dynmap/renderdata/quark-models.txt"
+hash = "8cadd8b3a49be714157fe1b3d516891bcf59dce015129253f385bf9468957fa6"
+
+[[files]]
+file = "dynmap/renderdata/quark-texture.txt"
+hash = "e001ec7001c100fad83f3d220b685f20eff66034ebcc3969c344de48238c388b"
+
+[[files]]
 file = "dynmap/renderdata/railcraft-models.txt"
-hash = "33078d5d2448381c0a8d2392018210befc4feec200fb08648c81cfc8e39ca305"
+hash = "6096adc2440d1589737b2f89e2aa5a32af8aec9bcb480f61da1c9ef05796d3d0"
 
 [[files]]
 file = "dynmap/renderdata/railcraft-texture.txt"
-hash = "5b9546dcab95143a228f2e14c3cc18133d140974e53ce706bff16be82b009d10"
+hash = "04e70e8a12f9ed82caa3010d13eec424010df9238ba4d541b6bf435e5e1ac1f9"
 
 [[files]]
-file = "dynmap/renderdata/rats-models.txt"
-hash = "b49d05b099fe7a18ec0c6367eab93c9f44833ff33729e8155178b0c27e97ed29"
+file = "dynmap/renderdata/waystones-models.txt"
+hash = "54a91a15781bcb7d648b11eae6879631867717bd5cf72e1bcad8f76b87ac88a6"
 
 [[files]]
-file = "dynmap/renderdata/rats-texture.txt"
-hash = "53ea04fc0ddcfee6b86ad3dabc8cb87e483b926945b57468c46573989738ff05"
+file = "dynmap/renderdata/waystones-texture.txt"
+hash = "1772aec634608716789c35c19ece40de8d66f75915cf8bde30fc02a1687f6c64"
 
 [[files]]
 file = "mods/additional-redstone.pw.toml"
@@ -173,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-ranks-forge.pw.toml"
-hash = "517e9a48e3bc790458003217c1c8608919bc3c5c06770c106fe36ca3f2d07d9e"
+hash = "47c9773ffdea65b209557efa75cedbeb612c83bcbc9dbc21606c70445ece9b4f"
 metafile = true
 
 [[files]]
@@ -187,6 +283,16 @@ hash = "fd729f238b96f0db94e161e1344b082d6812580144e765adccaf7e7fae0d58e6"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
 metafile = true
@@ -194,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
@@ -267,6 +378,11 @@ hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
@@ -277,11 +393,6 @@ hash = "0b9cb1dc948413d4c8c16b77307cec4f45c9af9822116beda965c0a15ccf2ac5"
 metafile = true
 
 [[files]]
-file = "mods/rats.pw.toml"
-hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
-metafile = true
-
-[[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
 metafile = true
@@ -289,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "703a46fa7d4918e855cc6ee841d4542741494851023ff49ba4087092a8d70b20"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
 metafile = true
 
 [[files]]
@@ -322,12 +438,18 @@ hash = "a303192d78ce87e6249c6ef4090c2d706b8bbbe0440a55b7d7bdc61db195370a"
 metafile = true
 
 [[files]]
-file = "scripts/railcraft.zs"
-hash = "dd53340039583f2820d3b0fb785bb4671ba3b3f95643c052884778d9f9061b79"
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
 
 [[files]]
-file = "scripts/rats-balance.zs"
-hash = "32e8956ffc0f5471943020ed4b9f989ebbc1409daeeab8dc3756c60da9dace36"
+file = "mods/zeta.pw.toml"
+hash = "98a5f14605e51677639c024541e9453a95911cbc21edfe94057b0ac4a8073ddd"
+metafile = true
+
+[[files]]
+file = "scripts/railcraft.zs"
+hash = "dd53340039583f2820d3b0fb785bb4671ba3b3f95643c052884778d9f9061b79"
 
 [[files]]
 file = "world/serverconfig/ftbessentials.snbt"
@@ -335,7 +457,7 @@ hash = "58f2ae3f069ea17f8df024281ca0a9cb73af44651e59e125ac430c4723dc9991"
 
 [[files]]
 file = "world/serverconfig/ftbranks/ranks.snbt"
-hash = "4da2081ba1d546459f484288c30c259db25b620941fd22be08779f4a36db214b"
+hash = "a388ea1ad6605b5bdcfbe5644972923a7750de277c0257ffbe69997c7e1cd4e2"
 
 [[files]]
 file = "world/serverconfig/gravestone-server.toml"

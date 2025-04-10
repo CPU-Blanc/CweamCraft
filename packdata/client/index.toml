@@ -9,6 +9,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "d6ef3d7a5517c89721d70bb8c73b9f5e0c988b28001b3a4b0fe41f5335c66548"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "110a879d5c49317efd5d64c153c93ff6016f9c08e61335df981e1cbb5bd79c64"
+
+[[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
 hash = "71709b74727d4fe97940e4e23950ad062046a49435cdff87f391c6bfb8d9bea4"
 
@@ -37,6 +41,10 @@ file = "journeymap/config/5.10/journeymap.webmap.config"
 hash = "629ff218d4305e5262d0eff38ca2261f2033dda46c8e9f8c0d5815bfcf52bd77"
 
 [[files]]
+file = "mods/EBE-1.20-1.20.1-0.9.1B.jar"
+hash = "47017b5a27eef8d3ab3f94e7dbb31f51cda71a052e6b9160966b7e7376920e7b"
+
+[[files]]
 file = "mods/additional-redstone.pw.toml"
 hash = "e6f1378edbd3c14377c457532b91520e3a592fc5443e852ad58bac67872d25c0"
 metafile = true
@@ -44,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "415c1bb058287bd60abb4ffc9210963699259862e32b039ececf3c0b497e968b"
 metafile = true
 
 [[files]]
@@ -62,13 +75,13 @@ hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
 metafile = true
 
 [[files]]
-file = "mods/complementary-reimagined.pw.toml"
-hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
+file = "mods/crafttweaker.pw.toml"
+hash = "c22a242d8faa61fd1b25f89707eff35dff301d6a6b35ffd345220e1a5fd9339d"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "c22a242d8faa61fd1b25f89707eff35dff301d6a6b35ffd345220e1a5fd9339d"
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
 metafile = true
 
 [[files]]
@@ -79,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "3b8dacbd1cd0e3d849b080473559fd26e4268e396075ad37d0fdf7031ee9dc97"
-metafile = true
-
-[[files]]
-file = "mods/faithful-32x.pw.toml"
-hash = "aedee657e7cbed0c751931bbcca081832a17f844e6f68b251ef7e47510c701fb"
 metafile = true
 
 [[files]]
@@ -112,6 +120,16 @@ hash = "984992f9214094eaab3beb1ae7600c76fc793c27696192f02a8f35ca93803552"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
 metafile = true
@@ -124,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
@@ -187,6 +210,11 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
@@ -194,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/railcraft-reborn.pw.toml"
 hash = "0b9cb1dc948413d4c8c16b77307cec4f45c9af9822116beda965c0a15ccf2ac5"
-metafile = true
-
-[[files]]
-file = "mods/rats.pw.toml"
-hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
 metafile = true
 
 [[files]]
@@ -212,18 +235,23 @@ hash = "b988bc3df72097c41bf4dc6d41e7112ce5671deb54085418f23846f88c22d7d9"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "6e9ed6f6746a95b05a899521662fca7ed48fd4effc52124c4db349a9d2966e8b"
+file = "mods/small-ships.pw.toml"
+hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
 metafile = true
 
 [[files]]
-file = "mods/stay-true.pw.toml"
-hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3071daca4905386e82defcbbfd743f0e56db87cb13e6b8a0d5ab264774e1b6fc"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1688cf8e91002b58e23e3040a8b72a728ca76f054d110440d1e91b0d8ec4b16a"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "5c581033ed8e02c6e2c3c35e721f45e8ce865e5c8216c86696bad17ce57cbe57"
 metafile = true
 
 [[files]]
@@ -235,6 +263,23 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "79410bb7c19d56a75b324e27d32192e1d239385f77db26140fa54f3974e6b25f"
 metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "98a5f14605e51677639c024541e9453a95911cbc21edfe94057b0ac4a8073ddd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Faithful 32x - 1.20.1.zip"
+hash = "0bf1b8ede0310b43a3009f75b58a4c057e31ac8f08f11b324c4290bec5df28d0"
+
+[[files]]
+file = "resourcepacks/Stay_True_1.20.zip"
+hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
+hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
 
 [[files]]
 file = "shaderpacks/photon_v1.1.zip"
