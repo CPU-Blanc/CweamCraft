@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/alexsmobs/catfish_spawns.json"
-hash = "5cf1aa60e2a5cf1e4456e7818b9d5738d8ba2ad19267eff3e9eb515a23f2cfb4"
+file = "config/alexsmobs.toml"
+hash = "0ef5ef7d60756c998093ccea32065cfde6cabacaa01b760afeb7861b2ddfea80"
 
 [[files]]
 file = "config/immersive-optimization.json"
