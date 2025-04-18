@@ -6,7 +6,7 @@ hash = "0ef5ef7d60756c998093ccea32065cfde6cabacaa01b760afeb7861b2ddfea80"
 
 [[files]]
 file = "config/immersive-optimization.json"
-hash = "07ee758fa7b8c973ea5425f87ecf413a2c02a7118afbff2a583dfa61bc3645eb"
+hash = "4753da2acb111c3ede2dbdaa66dc0feec0d534b62558450cb15ab7b48920e647"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -26,7 +26,7 @@ hash = "5927393e674f7a2b60961bfc5db30447c4c8db612e52249ae6139062f6fe5243"
 
 [[files]]
 file = "dynmap/configuration.txt"
-hash = "518311488617e73af38206a016b082bfdaf3a5bbd17a7cbc4db98fae0e70065f"
+hash = "5689a65ec6b947495eb989da159fcd48fd098c47a86ab8408f10cdf0bfe3b34f"
 
 [[files]]
 file = "dynmap/renderdata/additionalredstone-models.txt"
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7d2a10bd8f8a01c64b2e61aa1b03cc7ea23b1bf47f0eef2edefd22275b802a58"
+hash = "ff2c734786c306f7e415c78c90fa35bc603ff525a2d3e9babac59abfd7fe245a"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "98a5f14605e51677639c024541e9453a95911cbc21edfe94057b0ac4a8073ddd"
+hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
