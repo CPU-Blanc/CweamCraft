@@ -5,8 +5,8 @@ file = "config/alexsmobs.toml"
 hash = "0ef5ef7d60756c998093ccea32065cfde6cabacaa01b760afeb7861b2ddfea80"
 
 [[files]]
-file = "config/immersive-optimization.json"
-hash = "4753da2acb111c3ede2dbdaa66dc0feec0d534b62558450cb15ab7b48920e647"
+file = "config/immersive_optimization.json"
+hash = "c045ed9e28003e1422ce50e09b4dc38aa5db2e87c80c96e65094bbd98c4a5b6e"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "703a46fa7d4918e855cc6ee841d4542741494851023ff49ba4087092a8d70b20"
+hash = "1f24b43be5efacc252ef6df1d794ea811fd3f33e6f76d6d999e11e28018e553e"
 metafile = true
 
 [[files]]
