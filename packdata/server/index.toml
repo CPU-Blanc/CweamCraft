@@ -6,7 +6,7 @@ hash = "0ef5ef7d60756c998093ccea32065cfde6cabacaa01b760afeb7861b2ddfea80"
 
 [[files]]
 file = "config/immersive_optimization.json"
-hash = "c045ed9e28003e1422ce50e09b4dc38aa5db2e87c80c96e65094bbd98c4a5b6e"
+hash = "d6b21af8f75df1c3d4ad5e2e284d6cd6aca60b9338184ce63a477e14f9f6926c"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -453,11 +453,15 @@ hash = "dd53340039583f2820d3b0fb785bb4671ba3b3f95643c052884778d9f9061b79"
 
 [[files]]
 file = "world/serverconfig/ftbessentials.snbt"
-hash = "58f2ae3f069ea17f8df024281ca0a9cb73af44651e59e125ac430c4723dc9991"
+hash = "8172f1e5efbdb00cff632bc2d36b3d30cbc4f3ef5b6c0f5a1c165b60b8e2f0dd"
+
+[[files]]
+file = "world/serverconfig/ftbranks/players.snbt"
+hash = "7c977eeea0fee8f5d519b8f446f1a5585a77a44d1ba3dbfe3828ed5996a382d3"
 
 [[files]]
 file = "world/serverconfig/ftbranks/ranks.snbt"
-hash = "a388ea1ad6605b5bdcfbe5644972923a7750de277c0257ffbe69997c7e1cd4e2"
+hash = "b3b4474b939ae754f21f8962b838c79dd942ecf4ed28d5d237752e6a45593fed"
 
 [[files]]
 file = "world/serverconfig/gravestone-server.toml"
