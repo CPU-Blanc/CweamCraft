@@ -9,4 +9,4 @@ But if you hate her you can download the modpack as normal ig
 {% include button.html text="CweamCraft.zip 📁" link="/assets/CweamCraft.zip" %}
 
 ###### Download the latest standalone release
-{% include button.html text="CweamCraft-1.2.0.zip 📁" link="https://github.com/CPU-Blanc/CweamCraft/releases/download/v1.2.0/CweamCraft-1.2.0.zip" %}
+{% include button.html text="CweamCraft-1.3.0.zip 📁" link="https://github.com/CPU-Blanc/CweamCraft/releases/download/v1.3.0/CweamCraft-1.3.0.zip" %}
