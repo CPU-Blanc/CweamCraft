@@ -79,6 +79,11 @@ hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -116,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/dimension-access-manager.pw.toml"
+hash = "952a9c5120f87a850ed26527cbfa1108d9ddd0fab8e2986f84082f0a3e041520"
 metafile = true
 
 [[files]]
@@ -159,8 +174,18 @@ hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "92cbaea9e1183e7d0ae7ebe4c867c1e8225295d7aa23eabf4eac6d6618d18c7d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "9bd757c1ac41f77280b388da33a76fec9712c8f15cf914a13e5e664773191d1a"
 metafile = true
 
 [[files]]
@@ -264,6 +289,16 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
+file = "mods/pet-cemetery.pw.toml"
+hash = "baa01dee313f30743a8306dea4253e52975c2f36f04d9dbc9f982ad1686e9937"
+metafile = true
+
+[[files]]
+file = "mods/pet-transfer-trade-your-pets.pw.toml"
+hash = "2aa055a2c6290b4e315ef300a62a0e0191a48fa0d26133defca071c812a1b150"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
@@ -281,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/simple-shops.pw.toml"
+hash = "eb50118ab1d53243ffec8d8ec8ffac84e046232e09feb2c5a4597542fc9f4671"
 metafile = true
 
 [[files]]

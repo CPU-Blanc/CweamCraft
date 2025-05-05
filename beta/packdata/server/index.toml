@@ -21,8 +21,20 @@ file = "config/immersive_optimization.json"
 hash = "d6b21af8f75df1c3d4ad5e2e284d6cd6aca60b9338184ce63a477e14f9f6926c"
 
 [[files]]
+file = "config/immersive_paintings.json"
+hash = "cc09b1ccc94ba0026b8c28c2055e59a263194ce21f447250048c36b82a1e6efd"
+
+[[files]]
+file = "config/logprot.json"
+hash = "bd790367512f42f581f12f42213afa80d3eb6f6f90682089adbf5a3c6a8724f2"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "b8705a396a93a8127a571739ed5e047d86911a6a24871eb84240841e313b4467"
+
+[[files]]
+file = "config/simplebackups-common.toml"
+hash = "e1677888261eb15c559b10004ac1469580b4641e4e9e33d2bfcde54cc1e3c8e6"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
@@ -229,6 +241,11 @@ hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -281,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/dimension-access-manager.pw.toml"
+hash = "952a9c5120f87a850ed26527cbfa1108d9ddd0fab8e2986f84082f0a3e041520"
 metafile = true
 
 [[files]]
@@ -344,8 +366,18 @@ hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
+metafile = true
+
+[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "fd729f238b96f0db94e161e1344b082d6812580144e765adccaf7e7fae0d58e6"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "9bd757c1ac41f77280b388da33a76fec9712c8f15cf914a13e5e664773191d1a"
 metafile = true
 
 [[files]]
@@ -376,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "644607a28024fbb4115884962a09cb4621217f652aacd363f7a2df52ddb69862"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "0a96e881040a95b2543d18afc3f9e1727e64659ec1548ed2df4fcd7dafbfbbc7"
 metafile = true
 
 [[files]]
@@ -444,6 +481,16 @@ hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
+file = "mods/pet-cemetery.pw.toml"
+hash = "baa01dee313f30743a8306dea4253e52975c2f36f04d9dbc9f982ad1686e9937"
+metafile = true
+
+[[files]]
+file = "mods/pet-transfer-trade-your-pets.pw.toml"
+hash = "2aa055a2c6290b4e315ef300a62a0e0191a48fa0d26133defca071c812a1b150"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
@@ -461,6 +508,16 @@ metafile = true
 [[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "7ae23612abc6bf86cc256a71972a0b7d11be7042e8f3d8cc833e73796be405d0"
+metafile = true
+
+[[files]]
+file = "mods/simple-shops.pw.toml"
+hash = "eb50118ab1d53243ffec8d8ec8ffac84e046232e09feb2c5a4597542fc9f4671"
 metafile = true
 
 [[files]]
@@ -523,6 +580,10 @@ file = "scripts/railcraft.zs"
 hash = "dd53340039583f2820d3b0fb785bb4671ba3b3f95643c052884778d9f9061b79"
 
 [[files]]
+file = "world/serverconfig/dimension_access_manager-server.toml"
+hash = "f0a0bc057bde4fca9649484b281eaeafcb602770c6488c93fc4c1244ceab0f1e"
+
+[[files]]
 file = "world/serverconfig/ftbessentials.snbt"
 hash = "8172f1e5efbdb00cff632bc2d36b3d30cbc4f3ef5b6c0f5a1c165b60b8e2f0dd"
 
@@ -537,6 +598,10 @@ hash = "b3b4474b939ae754f21f8962b838c79dd942ecf4ed28d5d237752e6a45593fed"
 [[files]]
 file = "world/serverconfig/gravestone-server.toml"
 hash = "8e13311da9b8861ab596080c57ebe48eedfb9d45a28817d7e2af4d5f9aff241b"
+
+[[files]]
+file = "world/serverconfig/hourglass-server.toml"
+hash = "0b1aede18f0f305fbc221602af919ba84eccbd7278131789ec997a1f4f89676f"
 
 [[files]]
 file = "world/serverconfig/journeymap-server.toml"
