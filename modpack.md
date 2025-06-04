@@ -11,7 +11,7 @@ The standalone modpack will need to be manually downloaded on each modpack updat
 {% include button.html text="CweamCraft.zip 📁" link="/assets/CweamCraft.zip" %}
 
 ###### Download the latest standalone release
-{% include button.html text="CweamCraft-1.3.0.zip 📁" link="https://github.com/CPU-Blanc/CweamCraft/releases/download/v1.3.0/CweamCraft-1.3.0.zip" %}
+{% include button.html text="CweamCraft-1.3.1.zip 📁" link="https://github.com/CPU-Blanc/CweamCraft/releases/download/v1.3.1/CweamCraft-1.3.1.zip" %}
 
 # Installation
 ### Prism Launcher
