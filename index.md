@@ -4,9 +4,9 @@ feature_text: |
   # CweamCraft
 ---
 
-# THE SERVER IS NOW CLOSED. THANK YOU FOR PLAYING!!!
+## THE SERVER IS NOW CLOSED. THANK YOU FOR PLAYING!!!
 
-## Check the [Discord](https://discord.gg/sbFJt4d4B5) for updates
+### Check the [Discord](https://discord.gg/sbFJt4d4B5) for updates
 
 
-##### Please do consider following [Milk](https://twitch.tv/cweamcat) and supporting her!
+###### Please do consider following [Milk](https://twitch.tv/cweamcat) and supporting her!
