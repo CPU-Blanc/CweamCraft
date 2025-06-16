@@ -30,7 +30,7 @@ hash = "bd790367512f42f581f12f42213afa80d3eb6f6f90682089adbf5a3c6a8724f2"
 
 [[files]]
 file = "config/mmode.json"
-hash = "66b219b4ff7757017ccecbf358608f5135832b2d360e7dda7d9a3b526a1c9b66"
+hash = "50b1c63a3c790f273193d2b9011104517bb8987b3b4c513fc5a31ed14445034b"
 
 [[files]]
 file = "config/quark-common.toml"
