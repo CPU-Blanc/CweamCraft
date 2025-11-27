@@ -6,6 +6,28 @@ This project adheres to [Semantic Versioning](https://semver.org).
 
 ## [Unreleased]
 
+## [1.3.1-xmas]
+### Updated:
+- CraftTweaker
+- Default Options
+- Display Delight
+- Farmer's Delight
+- GraveStone Mod
+- ImmediatelyFast
+- Immersive Paintings
+- Inventory Profiles Next
+- Jade
+- JEI
+- Lootr
+- Macaw's Furniture, Paths & Pavings, Windows
+- Modern fix
+- Railcraft Reborn
+- Simple Voice Chat
+- Skin Layers 3D
+- Vivecraft
+- WATERFrAMES
+- Waystones
+
 ## [1.3.1] - 25-06-04
 ### Updated:
 - Macaw's Bridges & Lights, ModernFix, Waystones, JEI, Farmer's Delight
@@ -45,7 +67,8 @@ This project adheres to [Semantic Versioning](https://semver.org).
 ## [1.0.0] - 25-03-23
 Initial release
 
-[Unreleased]: https://github.com/CPU-Blanc/CweamCraft/compare/v1.3.1...HEAD
+[Unreleased]: https://github.com/CPU-Blanc/CweamCraft/compare/v1.3.1-xmas...HEAD
+[1.3.1-xmas]: https://github.com/CPU-Blanc/CweamCraft/compare/v1.3.1...v1.3.1-xmas
 [1.3.1]: https://github.com/CPU-Blanc/CweamCraft/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/CPU-Blanc/CweamCraft/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/CPU-Blanc/CweamCraft/compare/v1.1.0...v1.2.0
