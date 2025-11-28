@@ -25,10 +25,13 @@ jobs:
           ref: master
           fetch-depth: 0
 
+      - name: install pcregrep
+        run: sudo apt install pcregrep
+
       - name: get version
         id: client-version
         run: |
-          ver=$(cat packdata/client/pack.toml | grep -Ei 'version = "[0-9]+.[0-9]+.[0-9]+"' | grep -oEi [0-9]+.[0-9]+.[0-9]+)
+          ver=$(pcregrep -o1 'version = "(\d+.\d+.\d+(?:-\w+)?)"' packdata/client/pack.toml)
           echo "version=v$ver" >> $GITHUB_OUTPUT
         shell: bash
 
