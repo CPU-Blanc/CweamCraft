@@ -1,5 +1,4 @@
 public/.jekyll-cache/
 public/_site/
 .vscode
-tools/*
-!tools/packwiz
+tools/
