@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "0ef5ef7d60756c998093ccea32065cfde6cabacaa01b760afeb7861b2ddfea80"
+hash = "9bca5b5b13958562a2c383087525dabf814395203bbbc31e5ffe23f2647bedb7"
 
 [[files]]
 file = "config/backpacked.server.toml"
