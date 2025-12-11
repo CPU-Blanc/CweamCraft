@@ -61,6 +61,14 @@ file = "config/vivecraft-server-config.toml"
 hash = "2af6b1b5b68f9e4d6ff9509c5f769f546b7a6dd8bcbb93a98234a0f346a2982f"
 
 [[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "61358e0c04ee23b818dff357299076787247a1708749da49352f6ef2a373cb67"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "9c6e6cbd25888b578519887ea58489200be0358570bebc6555cee6f726ad2f32"
 
