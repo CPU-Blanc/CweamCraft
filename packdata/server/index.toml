@@ -61,6 +61,26 @@ file = "dynmap/worlds.txt"
 hash = "1041814b38723600665008e0b2fc50306f203fb99b3ffac295dc0a5db58f2ec2"
 
 [[files]]
+file = "journeymap/server/5.10/journeymap.server.default.config"
+hash = "7a3d0b595cb2de70ce0e561ab496fbd965d65cd3591cfaaac45e383f32d1d096"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.global.config"
+hash = "55ef282fc70a85255b3635a01ca80294f1db5ac8b60765d07f94379546e16da1"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.minecraft~overworld.config"
+hash = "11efcf955815e14938f5e8194c37dcc674b23104f24a4a35faa2815017bbfb7d"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.minecraft~the_end.config"
+hash = "eeeb8f9ea8c538c8733185a55da1797675b89ad74139c2983a97f2d8f53a35e5"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.minecraft~the_nether.config"
+hash = "1cafa0682369923ceda5fa1264574510f8b35b4e703851746aec993005c886e4"
+
+[[files]]
 file = "maintenance.png"
 hash = "5c2e1fe193220f54fb21e8c2a1dd56fd08e9ceee4aef4061a9ce0905f45516d5"
 
