@@ -351,9 +351,8 @@ hash = "6a48a6cb7442b8f045673d6de3e3590ae8252e66ea8c6f11f69f1d45b2304043"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "08df98fe6ca70335ac9d364232bbf4a2bfc8d331cf0fac805a09741b19e8756e"
-metafile = true
+file = "mods/skinlayers3d-forge-1.9.2-mc1.20.1.jar"
+hash = "7bd16cc4abaadd8936862fd56dd1dd2a6bd3fe7838959cca9578eedf4ae0efe3"
 
 [[files]]
 file = "mods/small-ships.pw.toml"
