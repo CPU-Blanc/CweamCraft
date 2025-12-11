@@ -37,6 +37,22 @@ file = "config/quark-common.toml"
 hash = "b8705a396a93a8127a571739ed5e047d86911a6a24871eb84240841e313b4467"
 
 [[files]]
+file = "config/simple-discord-link/embeds/default.json"
+hash = "402b5180a4542d1bd327963cec3c6ff6778751488da8fc56246685df235e1936"
+
+[[files]]
+file = "config/simple-discord-link/language/en_us.json"
+hash = "1f52e059d62cb835c6166f688d5638cc8265ccb0d6cb6b331074077aa6aa368e"
+
+[[files]]
+file = "config/simple-discord-link/simple-discord-compat.toml"
+hash = "b6b95b5f2068b7f8fb030b11e6e6c5ccc8782feadc8fe5c7740e0133ea0b34d4"
+
+[[files]]
+file = "config/simple-discord-link/simple-discord-link.toml"
+hash = "6cb5c39e609222114caf840005620770d608f500542a8bcbdd343a9e26b47e5c"
+
+[[files]]
 file = "config/simplebackups-common.toml"
 hash = "e1677888261eb15c559b10004ac1469580b4641e4e9e33d2bfcde54cc1e3c8e6"
 
