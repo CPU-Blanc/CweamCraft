@@ -237,10 +237,6 @@ file = "maintenance.png"
 hash = "5c2e1fe193220f54fb21e8c2a1dd56fd08e9ceee4aef4061a9ce0905f45516d5"
 
 [[files]]
-file = "mods/SimpleDiscordLink-Universal-3.3.1-custom.jar"
-hash = "cf69998a0b112992f96ea42123eeac7a88d28d5329d9fd62baef11159698a5d2"
-
-[[files]]
 file = "mods/additional-redstone.pw.toml"
 hash = "1847511b79dda27ac4483b3fbb9dd2a27d08ad177d3910ee70875c54f194c8d9"
 metafile = true
@@ -563,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "befdd7852cd8a3c5517e6c42ec706f22a1c60888f603cd338584f891e817be6b"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "9b8835befc435ad8bf636915ca93a90397e1e3b8cbdcae6641f24bb5b36187a2"
 metafile = true
 
 [[files]]
