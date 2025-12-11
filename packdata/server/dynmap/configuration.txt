@@ -411,6 +411,7 @@ sidebaropened: pinned
 trusted-proxies:
   - "127.0.0.1"
   - "0:0:0:0:0:0:0:1"
+  - "${CFG_PROXY_IP}"
   
 joinmessage: "%playername% joined"
 quitmessage: "%playername% quit"
