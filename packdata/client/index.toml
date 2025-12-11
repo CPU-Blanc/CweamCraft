@@ -10,7 +10,7 @@ hash = "29e7cb04bc4f7dcf70e5352182bff7bd064ac604bf354d5b89de56dd55c38be9"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "66ea1e41d2e828885647def7ca7cff2f2528a1a790d8eaa315a324f0ec176327"
+hash = "70f3b9ec75fa80440cf482d7f3f5a448f66acbe4b0b76818cd5f9014408aa12c"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -425,9 +425,18 @@ hash = "353d439e094a067c199eb744d0a20b0f87cc8dcde937ddc3ee6bd0f183e29a6e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/soft-weather.pw.toml"
+hash = "a76052f76e4eeb7f6114f3bad62fc1e967b8f39425bfb1e369c2ead7d56519b0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/§cWearable Christmas Hats§0_§8[v2]§0.zip"
+hash = "926a04efa0179e35577f7deed7def144d7bafc20efa100f1919eff9247b235b9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
