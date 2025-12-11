@@ -41,6 +41,22 @@ file = "config/quark-common.toml"
 hash = "b8705a396a93a8127a571739ed5e047d86911a6a24871eb84240841e313b4467"
 
 [[files]]
+file = "config/simple-discord-link/embeds/default.json"
+hash = "402b5180a4542d1bd327963cec3c6ff6778751488da8fc56246685df235e1936"
+
+[[files]]
+file = "config/simple-discord-link/language/en_us.json"
+hash = "1f52e059d62cb835c6166f688d5638cc8265ccb0d6cb6b331074077aa6aa368e"
+
+[[files]]
+file = "config/simple-discord-link/simple-discord-compat.toml"
+hash = "b6b95b5f2068b7f8fb030b11e6e6c5ccc8782feadc8fe5c7740e0133ea0b34d4"
+
+[[files]]
+file = "config/simple-discord-link/simple-discord-link.toml"
+hash = "6cb5c39e609222114caf840005620770d608f500542a8bcbdd343a9e26b47e5c"
+
+[[files]]
 file = "config/simplebackups-common.toml"
 hash = "e1677888261eb15c559b10004ac1469580b4641e4e9e33d2bfcde54cc1e3c8e6"
 
@@ -49,20 +65,48 @@ file = "config/vivecraft-server-config.toml"
 hash = "2af6b1b5b68f9e4d6ff9509c5f769f546b7a6dd8bcbb93a98234a0f346a2982f"
 
 [[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "61358e0c04ee23b818dff357299076787247a1708749da49352f6ef2a373cb67"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "9c6e6cbd25888b578519887ea58489200be0358570bebc6555cee6f726ad2f32"
 
 [[files]]
 file = "config/worldborder.json5"
-hash = "083ced574c8197e11eb3f61af22764c1d59fd5ac2c352523a37df9e3cb27b2ff"
+hash = "1cb75ed9f4ed4ae2668b65fd7c8dc267febb9e87b64c88e276ad3b08a1de6fe5"
 
 [[files]]
 file = "dynmap/configuration.txt"
-hash = "2533beed9b9b5532369eefe02d6bb1cce731a9c65b7885a31213ce983a3f5634"
+hash = "1126a68aaa3c8e42474472e1db6d4b6dbaea3ac29f213a00f34aaa48a94a0728"
 
 [[files]]
 file = "dynmap/worlds.txt"
 hash = "1041814b38723600665008e0b2fc50306f203fb99b3ffac295dc0a5db58f2ec2"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.default.config"
+hash = "7a3d0b595cb2de70ce0e561ab496fbd965d65cd3591cfaaac45e383f32d1d096"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.global.config"
+hash = "55ef282fc70a85255b3635a01ca80294f1db5ac8b60765d07f94379546e16da1"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.minecraft~overworld.config"
+hash = "11efcf955815e14938f5e8194c37dcc674b23104f24a4a35faa2815017bbfb7d"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.minecraft~the_end.config"
+hash = "eeeb8f9ea8c538c8733185a55da1797675b89ad74139c2983a97f2d8f53a35e5"
+
+[[files]]
+file = "journeymap/server/5.10/journeymap.server.minecraft~the_nether.config"
+hash = "1cafa0682369923ceda5fa1264574510f8b35b4e703851746aec993005c886e4"
 
 [[files]]
 file = "maintenance.png"
@@ -330,12 +374,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
-hash = "26302c1c2aa04621bb746c35eff79cb2d35681f21201a4c7e7319da6e1a8cc70"
+hash = "9906e6412e0dbce8a80dad82699d576f95c04cc4574e636705d9ac3e6686b0a2"
 metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "4655d3f1403518278ea53e6c38bdbc34b835b4a77c461b10f23924114b4978a0"
+hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
 metafile = true
 
 [[files]]
@@ -420,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f54290f9065d5f0b35215d24ea86ebfc7e4c7ce773ca6a305ec39436cef8279b"
+hash = "6a48a6cb7442b8f045673d6de3e3590ae8252e66ea8c6f11f69f1d45b2304043"
 metafile = true
 
 [[files]]

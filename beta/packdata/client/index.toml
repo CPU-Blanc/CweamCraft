@@ -297,12 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
-hash = "26302c1c2aa04621bb746c35eff79cb2d35681f21201a4c7e7319da6e1a8cc70"
+hash = "9906e6412e0dbce8a80dad82699d576f95c04cc4574e636705d9ac3e6686b0a2"
 metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "4655d3f1403518278ea53e6c38bdbc34b835b4a77c461b10f23924114b4978a0"
+hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f54290f9065d5f0b35215d24ea86ebfc7e4c7ce773ca6a305ec39436cef8279b"
+hash = "6a48a6cb7442b8f045673d6de3e3590ae8252e66ea8c6f11f69f1d45b2304043"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "83de91c9cbe0fb5271acbf336e5cef2d88e5ddaf15d8d4a895803ccd36455a05"
+hash = "0a124d952a34781cc8b511bd56a7468b24e75c5a8d3510a016737525594965a7"
 metafile = true
 
 [[files]]
