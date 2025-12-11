@@ -78,7 +78,7 @@ hash = "9c6e6cbd25888b578519887ea58489200be0358570bebc6555cee6f726ad2f32"
 
 [[files]]
 file = "config/worldborder.json5"
-hash = "083ced574c8197e11eb3f61af22764c1d59fd5ac2c352523a37df9e3cb27b2ff"
+hash = "1cb75ed9f4ed4ae2668b65fd7c8dc267febb9e87b64c88e276ad3b08a1de6fe5"
 
 [[files]]
 file = "dynmap/configuration.txt"
