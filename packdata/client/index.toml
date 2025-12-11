@@ -406,17 +406,21 @@ hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Faithful 32x - 1.20.1.zip"
-hash = "0bf1b8ede0310b43a3009f75b58a4c057e31ac8f08f11b324c4290bec5df28d0"
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "353d439e094a067c199eb744d0a20b0f87cc8dcde937ddc3ee6bd0f183e29a6e"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Stay_True_1.20.zip"
-hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
+file = "resourcepacks/stay-true.pw.toml"
+hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
+metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
-hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
+metafile = true
 
 [[files]]
-file = "shaderpacks/photon_v1.1.zip"
-hash = "1228172bfb0ee49de3d2b6268390bac52c9a57dd0aa92c8903e57cf14583203a"
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "09c8e6752fe02ae348923b6038bc1c3d4b06f452886a1d42c90d72adcc2e40ef"
+metafile = true
