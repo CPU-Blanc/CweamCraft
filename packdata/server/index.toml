@@ -29,6 +29,10 @@ file = "config/logprot.json"
 hash = "bd790367512f42f581f12f42213afa80d3eb6f6f90682089adbf5a3c6a8724f2"
 
 [[files]]
+file = "config/maidensmerrymaking-common.toml"
+hash = "63232769007867c6145f65f830457a6337d49bce28fac4aec837ccc8ca532480"
+
+[[files]]
 file = "config/mmode.json"
 hash = "50b1c63a3c790f273193d2b9011104517bb8987b3b4c513fc5a31ed14445034b"
 
@@ -269,6 +273,11 @@ hash = "9142dedf3cfa73a62277eee9922561b1576976ecb4521059c4db4b8994f9f5e5"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "b55f3276124e13e8b3899d4d0400e990dea41d228644be34b341e62fe8abed6e"
 metafile = true
@@ -374,6 +383,11 @@ hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
 metafile = true
 
 [[files]]
+file = "mods/maidens-merry-making.pw.toml"
+hash = "da744a0327fd701293da78d745c41907c6a8096086935a134a1edefa590b39a4"
+metafile = true
+
+[[files]]
 file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
 hash = "421ae73f3d143681f4b527256020513f021e37616ff6eb1aa731ae2ad7f6842a"
 metafile = true
@@ -396,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]

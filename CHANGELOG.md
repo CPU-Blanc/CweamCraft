@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](https://semver.org).
 ## [Unreleased]
 
 ## [1.3.1-xmas]
+### Added
+- [Mama's Merrymaking](https://www.curseforge.com/minecraft/mc-mods/maidens-merry-making): Various Christmas themed blocks, mobs and more
+
 ### Updated:
 - CraftTweaker
 - Default Options
