@@ -9,6 +9,7 @@ This project adheres to [Semantic Versioning](https://semver.org).
 ## [1.3.1-xmas]
 ### Added
 - [Mama's Merrymaking](https://www.curseforge.com/minecraft/mc-mods/maidens-merry-making): Various Christmas themed blocks, mobs and more
+- [Signpost](https://www.curseforge.com/minecraft/mc-mods/signpost): Cosmetic signposts
 - [Soft Weather](https://www.curseforge.com/minecraft/texture-packs/soft-weather): Makes rain + snow more transparent
 - [Wearable Christmas Hats](https://www.curseforge.com/minecraft/texture-packs/wearable-christmas-hats): Turns carved pumpkins into Christmas hats
 
