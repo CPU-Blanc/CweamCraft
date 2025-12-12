@@ -356,6 +356,11 @@ hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
 
 [[files]]
+file = "mods/signpost.pw.toml"
+hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
+metafile = true
+
+[[files]]
 file = "mods/simple-shops.pw.toml"
 hash = "eb50118ab1d53243ffec8d8ec8ffac84e046232e09feb2c5a4597542fc9f4671"
 metafile = true
