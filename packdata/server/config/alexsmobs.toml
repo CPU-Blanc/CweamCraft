@@ -238,10 +238,10 @@
 	capuchinMonkeySpawnRolls = 0
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
 	#Range: 0 ~ 1000
-	caveCentipedeSpawnWeight = 0
+	caveCentipedeSpawnWeight = 8
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	#Range: > 0
-	caveCentipedeSpawnRolls = 0
+	caveCentipedeSpawnRolls = 1
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
 	#Range: 0 ~ 1000
 	warpedToadSpawnWeight = 0
