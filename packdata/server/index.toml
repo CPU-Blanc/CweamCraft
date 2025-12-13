@@ -82,7 +82,7 @@ hash = "61358e0c04ee23b818dff357299076787247a1708749da49352f6ef2a373cb67"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "9c6e6cbd25888b578519887ea58489200be0358570bebc6555cee6f726ad2f32"
+hash = "2a04be7bea544e155a5c0e0e66e527cedc75a4932fb71ff3b89cafadad3c13c4"
 
 [[files]]
 file = "config/worldborder.json5"
