@@ -540,6 +540,14 @@ file = "scripts/railcraft.zs"
 hash = "dd53340039583f2820d3b0fb785bb4671ba3b3f95643c052884778d9f9061b79"
 
 [[files]]
+file = "world/datapacks/anti creeper grief v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "c6edcc0bafd1ea1acf11193f4a1613f701b17192b85886652ba6699125f91976"
+
+[[files]]
+file = "world/datapacks/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "b637f7394e4e4931194e1b6872ffb5486f7ae8854c61b492468452c26b91ff91"
+
+[[files]]
 file = "world/serverconfig/dimension_access_manager-server.toml"
 hash = "f0a0bc057bde4fca9649484b281eaeafcb602770c6488c93fc4c1244ceab0f1e"
 
