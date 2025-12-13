@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "939ef6ec5a872219b0f0e36313b9518bb00605c6f595a974f9614ac529786781"
+hash = "d41e36fbca9e8c6b1ce9a45408f0191d731d69bce2b7f80e480ca8517fa18b75"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
