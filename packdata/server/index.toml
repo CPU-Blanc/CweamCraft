@@ -13,6 +13,10 @@ file = "config/bcc-common.toml"
 hash = "939ef6ec5a872219b0f0e36313b9518bb00605c6f595a974f9614ac529786781"
 
 [[files]]
+file = "config/collective.json5"
+hash = "ef2a4f3b28bf12df241cfaba733a4e96549909b2a91ff774da71c0e5c1bc4da4"
+
+[[files]]
 file = "config/friendlyfire.json"
 hash = "2674bbc45aa053bc85e6f51e0f29726781f824806499cee992da43dc2ac2800f"
 
@@ -39,6 +43,10 @@ hash = "50b1c63a3c790f273193d2b9011104517bb8987b3b4c513fc5a31ed14445034b"
 [[files]]
 file = "config/quark-common.toml"
 hash = "b8705a396a93a8127a571739ed5e047d86911a6a24871eb84240841e313b4467"
+
+[[files]]
+file = "config/setworldspawnpoint.json5"
+hash = "b2e2c7176c225f7c99f7c1f509c9f35b42ed87ce294a41fa0b05de21b47adf7d"
 
 [[files]]
 file = "config/simple-discord-link/embeds/default.json"
@@ -445,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
+metafile = true
+
+[[files]]
+file = "mods/set-world-spawn-point.pw.toml"
+hash = "ac37246c59330db7b0fd4a334ff233cf493c6bd6745571ac9fed5514d796f1cc"
 metafile = true
 
 [[files]]
