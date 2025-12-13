@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "9bca5b5b13958562a2c383087525dabf814395203bbbc31e5ffe23f2647bedb7"
+hash = "71bc9f77fc12e3eacc9b138fed9aa16bdce257514d3ad845599a60535ccf2434"
 
 [[files]]
 file = "config/backpacked.server.toml"
@@ -82,7 +82,7 @@ hash = "61358e0c04ee23b818dff357299076787247a1708749da49352f6ef2a373cb67"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "9c6e6cbd25888b578519887ea58489200be0358570bebc6555cee6f726ad2f32"
+hash = "2a04be7bea544e155a5c0e0e66e527cedc75a4932fb71ff3b89cafadad3c13c4"
 
 [[files]]
 file = "config/worldborder.json5"
@@ -538,6 +538,18 @@ metafile = true
 [[files]]
 file = "scripts/railcraft.zs"
 hash = "dd53340039583f2820d3b0fb785bb4671ba3b3f95643c052884778d9f9061b79"
+
+[[files]]
+file = "world/datapacks/anti creeper grief v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "c6edcc0bafd1ea1acf11193f4a1613f701b17192b85886652ba6699125f91976"
+
+[[files]]
+file = "world/datapacks/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "b637f7394e4e4931194e1b6872ffb5486f7ae8854c61b492468452c26b91ff91"
+
+[[files]]
+file = "world/datapacks/bat membranes v1.0.9 (MC 1.20-1.20.6).zip"
+hash = "db8d2ce49948ba542b7ff3435a6c2c9741ad9c513a4e9e4144807fd866086c40"
 
 [[files]]
 file = "world/serverconfig/dimension_access_manager-server.toml"
