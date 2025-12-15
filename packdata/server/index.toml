@@ -33,6 +33,10 @@ file = "config/logprot.json"
 hash = "bd790367512f42f581f12f42213afa80d3eb6f6f90682089adbf5a3c6a8724f2"
 
 [[files]]
+file = "config/lootr-common.toml"
+hash = "28ddd24725b68edf5cad5aa339a1ed309809f9fa7678e175e3656337f915e215"
+
+[[files]]
 file = "config/maidensmerrymaking-common.toml"
 hash = "63232769007867c6145f65f830457a6337d49bce28fac4aec837ccc8ca532480"
 
@@ -550,6 +554,10 @@ hash = "b637f7394e4e4931194e1b6872ffb5486f7ae8854c61b492468452c26b91ff91"
 [[files]]
 file = "world/datapacks/bat membranes v1.0.9 (MC 1.20-1.20.6).zip"
 hash = "db8d2ce49948ba542b7ff3435a6c2c9741ad9c513a4e9e4144807fd866086c40"
+
+[[files]]
+file = "world/datapacks/cweamloot.zip"
+hash = "58420a24b1c4ac9177e8e4298891776cb182394ab133b196bb6a4fcc5aadeaed"
 
 [[files]]
 file = "world/serverconfig/dimension_access_manager-server.toml"
