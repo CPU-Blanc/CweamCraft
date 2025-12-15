@@ -34,7 +34,7 @@ hash = "bd790367512f42f581f12f42213afa80d3eb6f6f90682089adbf5a3c6a8724f2"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "c17de9f0552a0c0d3822397a24a0d6a2610b5797c5ce12bde18d790cfc2d0106"
+hash = "28ddd24725b68edf5cad5aa339a1ed309809f9fa7678e175e3656337f915e215"
 
 [[files]]
 file = "config/maidensmerrymaking-common.toml"

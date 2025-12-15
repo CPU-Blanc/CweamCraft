@@ -62,7 +62,7 @@ disable_message_styles = false
 bypass_spawn_protection = true
 #how long (in ticks) a decaying loot containers should take to decay (default 5 minutes = 5 * 60 * 20)
 #Range: > 0
-decay_value = 6000
+decay_value = 1728000
 #list of loot tables which will decay (default blank, meaning no chests decay, in the format of (in the format of ["modid:loot_table", "othermodid:other_loot_table"])
 decay_loot_tables = []
 #list of mod IDs whose loot tables will decay (default blank, meaning no chests decay, in the format ["modid", "othermodid"])
