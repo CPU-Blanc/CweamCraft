@@ -15,6 +15,7 @@ The standalone modpack will need to be manually downloaded on each modpack updat
 
 # Installation
 ### Prism Launcher
+- Download and install the [Prism launcher](https://prismlauncher.org/)
 - Select `Add Instance`
 {% include figure.html image="/assets/guides/prism1.png" %}
 - Select `Import` on the side bar
@@ -26,6 +27,7 @@ The standalone modpack will need to be manually downloaded on each modpack updat
 - Select the created instance and launch it
 
 ### Curseforge
+- Download and install the [CurseForge launcher](https://www.curseforge.com/download/app)
 - Select `My Modpacks` > `Import`
 {% include figure.html image="/assets/guides/curseforge1.png" %}
 - Select `Choose .zip file` and navigate to the downloaded .zip file
