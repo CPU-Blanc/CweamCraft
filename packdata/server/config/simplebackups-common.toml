@@ -8,7 +8,7 @@ enabled = true
 backupType = "MODIFIED_SINCE_LAST"
 #How often should a full backup be created if only modified files should be saved? This creates a full backup when x minutes are over and the next backup needs to be done. Once a year is default.
 #Range: 1 ~ 5259600
-fullBackupTimer = 43800
+fullBackupTimer = 3480
 #The max amount of backup files to keep.
 #Range: 1 ~ 32767
 backupsToKeep = 30
@@ -26,7 +26,7 @@ sendMessages = true
 #The max size of storage the backup folder. If it takes more storage, old files will be deleted.
 #Needs to be written as <number><space><storage type>
 #Valid storage types: B, KB, MB, GB, TB
-maxDiskSize = "100 GB"
+maxDiskSize = "150 GB"
 #Used to define the output path.
 outputPath = "simplebackups"
 #Create backups, even if nobody is online
