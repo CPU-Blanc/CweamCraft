@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "367bbe3d0c43bea6868085c0272b0c22b4c0d5509521f001360e315edd15e168"
+
+[[files]]
 file = "config/alexsmobs.toml"
 hash = "71bc9f77fc12e3eacc9b138fed9aa16bdce257514d3ad845599a60535ccf2434"
 
@@ -232,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "fc6ca89075fc760ad49489b82248391a812965cde718239c12e02c46e3799c17"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5e0a66939c01784ca8b8ffb0c9706bbb199fa2aca23b222fe4fee8222911ad79"
 metafile = true
 
 [[files]]
