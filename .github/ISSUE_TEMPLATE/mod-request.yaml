@@ -6,8 +6,8 @@ body:
   - type: input
     id: modlink
     attributes:
-      label: Curseforge link
-      description: A link to the mod on Curseforge.
+      label: Curseforge/Modrinth link
+      description: A link to the mod on Curseforge or Modrinth.
     validations:
       required: true
   - type: textarea
@@ -21,4 +21,4 @@ body:
     id: alt
     attributes:
       label: Alternatives
-      description: If this mod cannot be added, what (if any) alternatives would you like in its place.
+      description: If this mod cannot be added, what (if any) alternatives would you like in its place?
