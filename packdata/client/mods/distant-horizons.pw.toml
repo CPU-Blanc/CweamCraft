@@ -1,0 +1,18 @@
+name = "Distant Horizons: A Level of Detail mod"
+filename = "DistantHorizons-2.4.3-b-1.20.1-fabric-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82276783c12c80fa26a7f1c00a48f8e5a98fc07f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7350262
+project-id = 508933
+
+[option]
+optional = true
+default = false
+description = "A mod that adds LoD capabilities to Minecraft: allowing you to view chunks at far greater distances than your render distance in less detail"
