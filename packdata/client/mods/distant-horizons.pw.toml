@@ -14,5 +14,4 @@ project-id = 508933
 
 [option]
 optional = true
-default = false
 description = "A mod that adds LoD capabilities to Minecraft: allowing you to view chunks at far greater distances than your render distance in less detail"
