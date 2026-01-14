@@ -54,7 +54,7 @@ hash = "6cb5c39e609222114caf840005620770d608f500542a8bcbdd343a9e26b47e5c"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "e1677888261eb15c559b10004ac1469580b4641e4e9e33d2bfcde54cc1e3c8e6"
+hash = "ba45bdf9b0d6bcf524c28eaa5b01310b941dec426303e71bd3f197714bf0372e"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
