@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "ef89f3d00ca10fe3cc8c3cb0c1f312ca04ed34a28fed1cb3cca274d85b7940ab"
-
-[[files]]
 file = "config/alexsmobs.toml"
-hash = "71bc9f77fc12e3eacc9b138fed9aa16bdce257514d3ad845599a60535ccf2434"
+hash = "0ef5ef7d60756c998093ccea32065cfde6cabacaa01b760afeb7861b2ddfea80"
 
 [[files]]
 file = "config/backpacked.server.toml"
@@ -14,11 +10,7 @@ hash = "02eae75f965cb0d6ceb6395c5ab2eb0cdbdd51b8d5818900b1d8b6384a79f3ff"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d41e36fbca9e8c6b1ce9a45408f0191d731d69bce2b7f80e480ca8517fa18b75"
-
-[[files]]
-file = "config/collective.json5"
-hash = "ef2a4f3b28bf12df241cfaba733a4e96549909b2a91ff774da71c0e5c1bc4da4"
+hash = "939ef6ec5a872219b0f0e36313b9518bb00605c6f595a974f9614ac529786781"
 
 [[files]]
 file = "config/friendlyfire.json"
@@ -37,24 +29,12 @@ file = "config/logprot.json"
 hash = "bd790367512f42f581f12f42213afa80d3eb6f6f90682089adbf5a3c6a8724f2"
 
 [[files]]
-file = "config/lootr-common.toml"
-hash = "28ddd24725b68edf5cad5aa339a1ed309809f9fa7678e175e3656337f915e215"
-
-[[files]]
-file = "config/maidensmerrymaking-common.toml"
-hash = "63232769007867c6145f65f830457a6337d49bce28fac4aec837ccc8ca532480"
-
-[[files]]
 file = "config/mmode.json"
 hash = "50b1c63a3c790f273193d2b9011104517bb8987b3b4c513fc5a31ed14445034b"
 
 [[files]]
 file = "config/quark-common.toml"
 hash = "b8705a396a93a8127a571739ed5e047d86911a6a24871eb84240841e313b4467"
-
-[[files]]
-file = "config/setworldspawnpoint.json5"
-hash = "b2e2c7176c225f7c99f7c1f509c9f35b42ed87ce294a41fa0b05de21b47adf7d"
 
 [[files]]
 file = "config/simple-discord-link/embeds/default.json"
@@ -74,7 +54,7 @@ hash = "6cb5c39e609222114caf840005620770d608f500542a8bcbdd343a9e26b47e5c"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "306031fe93d06744dd4b645ef30a2f22b89028ad2fe309858a333a6cf983c141"
+hash = "ba45bdf9b0d6bcf524c28eaa5b01310b941dec426303e71bd3f197714bf0372e"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
@@ -94,7 +74,7 @@ hash = "2a04be7bea544e155a5c0e0e66e527cedc75a4932fb71ff3b89cafadad3c13c4"
 
 [[files]]
 file = "config/worldborder.json5"
-hash = "1cb75ed9f4ed4ae2668b65fd7c8dc267febb9e87b64c88e276ad3b08a1de6fe5"
+hash = "083ced574c8197e11eb3f61af22764c1d59fd5ac2c352523a37df9e3cb27b2ff"
 
 [[files]]
 file = "dynmap/configuration.txt"
@@ -239,11 +219,6 @@ hash = "fc6ca89075fc760ad49489b82248391a812965cde718239c12e02c46e3799c17"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5e0a66939c01784ca8b8ffb0c9706bbb199fa2aca23b222fe4fee8222911ad79"
-metafile = true
-
-[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "a9df7957db29bd5934360117797e75baa6fc0a12a9ef99c1bddb66a7ad30a7ce"
 metafile = true
@@ -291,11 +266,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-ranks-forge.pw.toml"
 hash = "9142dedf3cfa73a62277eee9922561b1576976ecb4521059c4db4b8994f9f5e5"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
 
 [[files]]
@@ -404,11 +374,6 @@ hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
 metafile = true
 
 [[files]]
-file = "mods/maidens-merry-making.pw.toml"
-hash = "da744a0327fd701293da78d745c41907c6a8096086935a134a1edefa590b39a4"
-metafile = true
-
-[[files]]
 file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
 hash = "421ae73f3d143681f4b527256020513f021e37616ff6eb1aa731ae2ad7f6842a"
 metafile = true
@@ -431,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
@@ -466,16 +426,6 @@ metafile = true
 [[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
-metafile = true
-
-[[files]]
-file = "mods/set-world-spawn-point.pw.toml"
-hash = "ac37246c59330db7b0fd4a334ff233cf493c6bd6745571ac9fed5514d796f1cc"
-metafile = true
-
-[[files]]
-file = "mods/signpost.pw.toml"
-hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
 metafile = true
 
 [[files]]
@@ -553,22 +503,6 @@ file = "scripts/railcraft.zs"
 hash = "dd53340039583f2820d3b0fb785bb4671ba3b3f95643c052884778d9f9061b79"
 
 [[files]]
-file = "world/datapacks/anti creeper grief v1.1.7 (MC 1.20-1.20.6).zip"
-hash = "a072399a2a5aeef5552ce014085a181d81bea4a0da6389dcb0ea6e62a360f9fe"
-
-[[files]]
-file = "world/datapacks/anti enderman grief v1.1.7 (MC 1.20-1.20.6).zip"
-hash = "b637f7394e4e4931194e1b6872ffb5486f7ae8854c61b492468452c26b91ff91"
-
-[[files]]
-file = "world/datapacks/bat membranes v1.0.9 (MC 1.20-1.20.6).zip"
-hash = "db8d2ce49948ba542b7ff3435a6c2c9741ad9c513a4e9e4144807fd866086c40"
-
-[[files]]
-file = "world/datapacks/cweamloot.zip"
-hash = "58420a24b1c4ac9177e8e4298891776cb182394ab133b196bb6a4fcc5aadeaed"
-
-[[files]]
 file = "world/serverconfig/dimension_access_manager-server.toml"
 hash = "f0a0bc057bde4fca9649484b281eaeafcb602770c6488c93fc4c1244ceab0f1e"
 
@@ -595,10 +529,6 @@ hash = "cb9df9debbc04baab5ad473f10049b67887b96404c7997983d26c9a98d2c102a"
 [[files]]
 file = "world/serverconfig/railcraft-server.toml"
 hash = "2cd236244ae9ea9eee684608c4ac993b3429807e275ca1f8927974a0166855aa"
-
-[[files]]
-file = "world/serverconfig/signpost-server.toml"
-hash = "9f071e74c45f9231ae51bfc967bbdc2668e468b05079aa7e52c76281f74441f6"
 
 [[files]]
 file = "world/serverconfig/waterframes-server.toml"

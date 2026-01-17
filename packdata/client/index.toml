@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "eb44ddf3d44d9f182a12d86046eb7d12bedb223103fa2e320e27db009a63cb71"
-
-[[files]]
 file = "config/bcc-common.toml"
-hash = "d41e36fbca9e8c6b1ce9a45408f0191d731d69bce2b7f80e480ca8517fa18b75"
+hash = "939ef6ec5a872219b0f0e36313b9518bb00605c6f595a974f9614ac529786781"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -14,7 +10,7 @@ hash = "29e7cb04bc4f7dcf70e5352182bff7bd064ac604bf354d5b89de56dd55c38be9"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "70f3b9ec75fa80440cf482d7f3f5a448f66acbe4b0b76818cd5f9014408aa12c"
+hash = "66ea1e41d2e828885647def7ca7cff2f2528a1a790d8eaa315a324f0ec176327"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -156,11 +152,6 @@ hash = "fc6ca89075fc760ad49489b82248391a812965cde718239c12e02c46e3799c17"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "8ca9e5b3e963b96bc66a03a35361184e9ea42194902a6968b76de36f8e1116a9"
-metafile = true
-
-[[files]]
 file = "mods/ebe-forge.pw.toml"
 hash = "54c84727c0d0423a3d7f0049bd3b1b7d9136ff1f41ce5fc83d6c29c6119ea4b0"
 metafile = true
@@ -193,11 +184,6 @@ metafile = true
 [[files]]
 file = "mods/friendly-fire.pw.toml"
 hash = "905aa52f559261f30b07aadb82e18c9cf12981b91b1213b52d87d57d9772edef"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
 
 [[files]]
@@ -316,11 +302,6 @@ hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
 metafile = true
 
 [[files]]
-file = "mods/maidens-merry-making.pw.toml"
-hash = "da744a0327fd701293da78d745c41907c6a8096086935a134a1edefa590b39a4"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "11cd7da81a933aab04f091e2c25447b6d11ebe98bfeed244426a86dd31f3df04"
 metafile = true
@@ -328,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
@@ -363,11 +339,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
-metafile = true
-
-[[files]]
-file = "mods/signpost.pw.toml"
-hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
 metafile = true
 
 [[files]]
@@ -440,18 +411,9 @@ hash = "353d439e094a067c199eb744d0a20b0f87cc8dcde937ddc3ee6bd0f183e29a6e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/soft-weather.pw.toml"
-hash = "a76052f76e4eeb7f6114f3bad62fc1e967b8f39425bfb1e369c2ead7d56519b0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true
-
-[[files]]
-file = "resourcepacks/§cWearable Christmas Hats§0_§8[v2]§0.zip"
-hash = "926a04efa0179e35577f7deed7def144d7bafc20efa100f1919eff9247b235b9"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

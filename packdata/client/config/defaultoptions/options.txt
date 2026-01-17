@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["mod_resources","vanilla","file/Soft-Weather-1.0-Universal.zip","file/§cWearable Christmas Hats§0_§8[v2]§0.zip"]
-incompatibleResourcePacks:["file/Soft-Weather-1.0-Universal.zip","file/§cWearable Christmas Hats§0_§8[v2]§0.zip"]
+resourcePacks:[]
+incompatibleResourcePacks:[]
 lastServer:127.0.0.1
 lang:en_us
 soundDevice:""
